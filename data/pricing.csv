@@ -1,0 +1,17 @@
+name,company,input_per_1m,output_per_1m,release_date
+GPT-3.5 Turbo,OpenAI,0.50,1.50,2022-11-30
+GPT-4,OpenAI,30.00,60.00,2023-03-14
+GPT-4 Turbo,OpenAI,10.00,30.00,2023-11-06
+GPT-4o,OpenAI,5.00,15.00,2024-05-13
+GPT-4o (reduced),OpenAI,2.50,10.00,2024-10-01
+GPT-4o Mini,OpenAI,0.15,0.60,2024-07-18
+o1,OpenAI,15.00,60.00,2024-09-12
+o1 Mini,OpenAI,3.00,12.00,2024-09-12
+o3,OpenAI,10.00,40.00,2025-04-16
+GPT-4.5,OpenAI,75.00,150.00,2025-02-27
+Claude 3 Opus,Anthropic,15.00,75.00,2024-03-04
+Claude 3.5 Sonnet,Anthropic,3.00,15.00,2024-06-20
+Claude 3.7 Sonnet,Anthropic,3.00,15.00,2025-02-24
+Gemini 1.5 Pro,Google,3.50,10.50,2024-02-15
+Gemini 2.0 Flash,Google,0.10,0.40,2024-12-11
+Llama 3.1 405B,Meta,0.00,0.00,2024-07-23
