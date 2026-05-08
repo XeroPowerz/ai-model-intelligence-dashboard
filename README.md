@@ -28,7 +28,7 @@ Built with Python, Streamlit, Plotly, and scikit-learn.
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-model-intelligence-dashboard.git
+git clone https://github.com/XeroPowerz/ai-model-intelligence-dashboard.git
 cd ai-model-intelligence-dashboard
 ```
 
