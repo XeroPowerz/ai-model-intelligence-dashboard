@@ -20,7 +20,7 @@ Built with Python, Streamlit, Plotly, and scikit-learn.
 
 🔗 **[Live App → ai-model-intelligence-dashboard.streamlit.app](https://ai-model-intelligence-dashboard.streamlit.app/)**
 
-<!-- ![Dashboard Screenshot](assets/screenshot.png) -->
+![Dashboard Screenshot](assets/screenshot.png)
 
 ---
 
