@@ -18,7 +18,7 @@ Built with Python, Streamlit, Plotly, and scikit-learn.
 
 ## Demo
 
-> _Add a screenshot or GIF here after deployment_
+🔗 **[Live App → ai-model-intelligence-dashboard.streamlit.app](https://ai-model-intelligence-dashboard.streamlit.app/)**
 
 <!-- ![Dashboard Screenshot](assets/screenshot.png) -->
 
